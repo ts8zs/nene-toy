@@ -1,0 +1,23 @@
+{
+  "item": {
+    "name": "宁の粉色心情",
+    "description": "突然出现的神秘表盘。下方的按钮究竟是干什么的呢？数字究竟是什么意思呢？",
+    "preview": ["预览图文件名（路径相对于你的仓库根目录）"],
+    "icon": "图标文件名（路径相对于你的仓库根目录）",
+    "source_url": "https://github.com/ts8zs/nene-toy",
+    "author": [{
+      "name": "提升8智商",
+      "author_url": "ts8zs.com"
+    }]
+  },
+  "downloads": {
+    "o66": {
+      "version": "2026.02.10.1",
+      "file_name": "/res/nene1.bin"
+    },
+    "o66nfc": {
+      "version": "2026.02.10.1",
+      "file_name": "/res/nene1.bin"
+    }
+  }
+}
